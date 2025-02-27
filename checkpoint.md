@@ -2,6 +2,15 @@
 
 ## How does the web work?
 
+Web functions through client-server architecture model, where the client requests resources served by the server either through a private network or the internet.
+The client will make a request to the server for a resource(data) hosted by the server and the server will responde with the requested resources send back to the client via the internet(network).
+
+The clients will include but not limited to the following:
+
+1. Mobile Apps
+2. Web browser
+3. IOT devices
+
 ## What do you need to be a web developer?
 
 A web developer is a computer programmer who specializes in design and development of websites and web applications.
